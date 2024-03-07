@@ -1,0 +1,7 @@
+pip
+streamlit
+Pillow
+streamlit_extras
+streamlit_player
+
+
